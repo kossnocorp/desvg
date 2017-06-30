@@ -1,0 +1,29 @@
+{
+  "name": "desvg",
+  "version": "0.1.0",
+  "description": "Converts SVG files into components",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kossnocorp/desvg.git"
+  },
+  "keywords": [
+    "react",
+    "preact",
+    "svg",
+    "webpack",
+    "svg-loader"
+  ],
+  "author": "Sasha Koss <koss@nocorp.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kossnocorp/desvg/issues"
+  },
+  "homepage": "https://github.com/kossnocorp/desvg#readme",
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
