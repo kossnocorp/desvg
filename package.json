@@ -1,6 +1,6 @@
 {
   "name": "@kossnocorp/desvg",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Converts SVG files into components",
   "main": "index.js",
   "scripts": {
