@@ -4,7 +4,7 @@
 It inlines SVG source so that you can alter it (animate, set color,
 control size, etc.).
 
-![](https://d3vv6lp55qjaqc.cloudfront.net/items/3K0o2q351y0i0N3R3Q1Y/desvg.png)
+![](https://d3vv6lp55qjaqc.cloudfront.net/items/443d1R2G0J3i3v1W0D3W/desvg.png)
 
 ## Installation
 
