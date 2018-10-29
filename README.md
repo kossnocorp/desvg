@@ -31,13 +31,13 @@ yarn add @kossnocorp/desvg
 {
   test: /\.svg$/,
   use: [
-    'desvg/react', // 👈 Add loader (use 'desvg/preact' for Preact)
-    'svg' // 👈 svg-loader must precede desvg-loader
+    'desvg-loader/react', // 👈 Add loader (use 'desvg-loader/preact' for Preact)
+    'svg-loader' // 👈 svg-loader must precede desvg-loader
   ],
 
   // or if you prefer classic:
 
-  loader: 'desvg/react!svg'
+  loader: 'desvg-loader/react!svg-loader'
 },
 // ...
 ```
